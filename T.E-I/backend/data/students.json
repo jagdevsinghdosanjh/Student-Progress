@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Ajanbeer Singh",
+        "max_marks": {
+            "Punjabi A": {
+                "B.M-I": 20,
+                "T.E-I": 65,
+                "B.M-II": 20,
+                "T.E-II": 65,
+                "Annual": 65,
+                "INA": 10
+            },
+        },
+        "marks_obtained": {
+        Punjabi A: {
+                "B.M-I": , 
+                "T.E-I": ,
+                "B.M-II": ,
+                "T.E-II": ,
+                "Annual": ,
+                "INA":
+            }
+        },
+        "max_marks": {
+            "Punjabi B": {
+                "B.M-I": 20,
+                "T.E-I": 65,
+                "B.M-II": 20,
+                "T.E-II": 65,
+                "Annual": 65,
+                "INA": 10
+            },
+        },
+        "marks_obtained": {
+        Punjabi B: {
+                "B.M-I": ,
+                "T.E-I": ,
+                "B.M-II": ,
+                "T.E-II": ,
+                "Annual": ,
+                "INA":
+            }
+
+    }
+]
